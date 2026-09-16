@@ -45,7 +45,7 @@ Le site est construit de zéro ; l'ancien site Google Sites sert uniquement de s
 1. **En-tête** : logo GL, liens vers les deux lieux, bouton « Prendre RDV ».
 2. **Bandeau principal** : « Ostéopathe D.O. à Vendenheim et Schiltigheim », accroche sportifs et douleurs du quotidien, portrait, note et nombre d'avis Google, bouton Doctolib, téléphone.
 3. **Ce que je soigne** : sportifs ; douleurs du bureau (cervicales, dos, épaules, poignets) ; tous publics.
-4. **Qui suis-je** : pratique de la musculation et du bras de fer ; passion pour l'anatomie et la biomécanique du sportif ; collaboration avec Jérémie Agius à Plobsheim (juillet 2025 – juillet 2026) ; partenariats actuels avec Gym Concordia et Bras de Fer Sportif Strasbourg ; mention discrète « diplômé de l'école OSCAR (Strasbourg) ».
+4. **Qui suis-je** : pratique de la musculation et du bras de fer ; passion pour l'anatomie et la biomécanique du sportif ; collaboration avec Jérémie Agius à Plobsheim (juillet 2025 – juillet 2026) ; partenariats actuels avec Gym Concordia et Bras de Fer Sportif Strasbourg ; mention discrète « formation à l'école OSCAR (Strasbourg) ».
 5. **Les deux lieux** : carte par lieu (adresse, jours, tarif) avec lien vers sa page.
 6. **Avis** : 6 avis Google sélectionnés (prénom + initiale, texte exact) et lien « Voir tous les avis sur Google ».
 7. **FAQ** : remboursement mutuelle ; déroulement d'une séance ; quand consulter et fréquence ; moyens de paiement (carte bancaire, espèces, chèque).
@@ -58,14 +58,14 @@ Le site est construit de zéro ; l'ancien site Google Sites sert uniquement de s
 - Horaires : mardi, mercredi, jeudi 14h–20h ; vendredi 7h30–13h30.
 - Tarif : 65 € la séance d'1 h.
 - Accès : parking privé, accès PMR, bus C9, proche gare SNCF.
-- Carte statique avec lien vers l'itinéraire, bouton RDV.
+- Lien « Itinéraire » vers Google Maps (pas de carte intégrée, pour n'appeler aucun service tiers), bouton RDV.
 
 ### 3.3 Page Schiltigheim
 
 - Gym Concordia (salle du Moulin), 22 rue du Tribunal, 67300 Schiltigheim. Nom et logo du club affichés (accord confirmé).
 - Horaires : lundi 15h–19h ; mardi 8h–13h ; jeudi 8h–13h.
 - Tarifs : 50 € (adhérents Concordia) / 60 € (non-adhérents), séance de 50 min.
-- Accès, carte statique avec lien vers l'itinéraire, bouton RDV.
+- Accès, lien « Itinéraire » vers Google Maps, bouton RDV.
 
 ### 3.4 Mentions légales
 
